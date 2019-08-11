@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 body {
-	line-height: 1;
+	line-height: 0;
 }
 
 ol, ul {
@@ -1794,7 +1794,7 @@ input, select, textarea {
 	}
 
 		ol li {
-			padding-left: 0.25em;
+			padding-left: 0.15em;
 		}
 
 /* Actions */
@@ -2060,7 +2060,7 @@ input, select, textarea {
 		-ms-justify-content: center;
 		justify-content: center;
 		position: relative;
-		height: 24em;
+		height: 10em;
 		background: url("../../images/banner.jpg") center center;
 		background-size: cover;
 		padding: 0;
@@ -2077,7 +2077,7 @@ input, select, textarea {
 		}
 
 		.homepage #header {
-			height: 35em;
+			height: 15em;
 		}
 
 /* Logo */
@@ -2090,7 +2090,7 @@ input, select, textarea {
 	}
 
 		#logo h1 {
-			font-weight: 900;
+			font-weight: 0;
 			text-transform: uppercase;
 			color: #fff;
 			font-size: 2em;
